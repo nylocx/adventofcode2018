@@ -105,6 +105,3 @@ venv.bak/
 
 # Session secrets
 session
-
-# Input files
-*_input
