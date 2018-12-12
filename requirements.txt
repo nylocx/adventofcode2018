@@ -1,5 +1,6 @@
 # Requirements for the Azure Notebooks
 autopep8
+blackcellmagic
 isort
 # Real requirements
 networkx
